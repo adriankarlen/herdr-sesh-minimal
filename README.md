@@ -14,18 +14,16 @@ Unlike heavy multi-column session pickers, `herdr-sesh-minimal` is designed for 
 
 ## Installation
 
-### 1. Build & Link in Herdr
+### 1. Install via Herdr
 
-Link the plugin locally into Herdr:
+```bash
+herdr plugin install adriankarlen/herdr-sesh-minimal
+```
+
+Or link locally for development:
 
 ```bash
 herdr plugin link .
-```
-
-Or build manually:
-
-```bash
-go build -o bin/herdr-sesh-minimal ./cmd/herdr-sesh-minimal
 ```
 
 ### 2. Configure Keybindings
