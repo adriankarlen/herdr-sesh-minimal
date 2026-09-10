@@ -2,6 +2,9 @@
 
 An opinionated, fast, and minimal [Sesh](https://github.com/joshmedeski/sesh) workspace session manager plugin for [Herdr](https://github.com/herdr-org/herdr).
 
+<img width="2314" height="1413" alt="image" src="https://github.com/user-attachments/assets/74ff3966-6759-4f5c-b223-b0f77a4a46e1" />
+
+
 Unlike heavy multi-column session pickers, `herdr-sesh-minimal` is designed for speed:
 - **Minimal interface**: Fast fuzzy search powered by [`gum filter`](https://github.com/charmbracelet/gum) or `fzf`.
 - **Global styling**: Uses your environment theme (e.g. `GUM_*` colors such as Rose Pine) directly without forcing custom color palettes.
